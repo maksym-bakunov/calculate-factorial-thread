@@ -36,7 +36,7 @@ public class ReadThread implements Runnable {
                 }
                 queue.put(executor.submit(new FactorialTask(number, taskMaxTime)));
             }
-            queue.put(executor.submit(new FactorialTask(-1L, taskMaxTime)));
+            queue.put(executor.submit(new FactorialTask(Constants.FLAG_END_OF_FILE, taskMaxTime)));
         } catch (IOException e) {
             e.printStackTrace();
         } catch (InterruptedException e) {
