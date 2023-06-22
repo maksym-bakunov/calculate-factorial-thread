@@ -1,6 +1,5 @@
 # 	CALCULATE OF THE FACTORIAL OF DATA IN A STREAM
 
-https://github.com/maksym-bakunov/calculate-factorial-thread/blob/master/README.md#task
 <p align="center">
   <a href="#task">Условие задачи</a> •
   <a href="#used-technologies">Используемые технологии</a> •
