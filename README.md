@@ -1,13 +1,13 @@
 # 	CALCULATE OF THE FACTORIAL OF DATA IN A STREAM
 
-
+https://github.com/maksym-bakunov/calculate-factorial-thread/blob/master/README.md#task
 <p align="center">
   <a href="#task">Условие задачи</a> •
   <a href="#used-technologies">Используемые технологии</a> •
   <a href="#how-to-use">Как пользоваться</a>
 </p>
 
-## Task
+## Условие задачи
 Необходимо написать консольную, многопоточную программу для вычисления факториала для каждого числа из входного файла.
 Требования для программы:
 - 1 поток читает данные из файла input.txt
