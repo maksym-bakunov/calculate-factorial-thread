@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="task">Условие задачи</a> •
+  <a href="#task">Условие задачи</a> •
   <a href="#used-technologies">Используемые технологии</a> •
   <a href="#how-to-use">Как пользоваться</a> •
 </p>
